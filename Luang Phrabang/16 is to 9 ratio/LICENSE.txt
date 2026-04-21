@@ -20,7 +20,7 @@ DESCRIPTION OF WORK:
 ---------------------
 Flag of Luang Phrabang, resized to 1920x1080 (16:9).
 This file is a derivative of the creator's own corrected 3:2 version
-(Wallis And Futuna (3 is to 2 ratio).png).
+(Luang Phrabang (3 is to 2 ratio).png).
 
 DERIVATIVE CHAIN:
 -----------------
